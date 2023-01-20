@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\.6dd28e11cb0b68423574e4eb95eada944878472f-audit.json",
+    "files": [
+        {
+            "date": 1672166848985,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2022-12-27.log",
+            "hash": "494499b5e154ad8be67750bbb1fbed9e7b1b4f9ca3117162ca1ffe6a7a6625e2"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,264 @@
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"warn","message":""}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"warn","message":"ATENÇÃO!"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"warn","message":"ATENÇÃO!"}
+{"level":"info","message":"Servidor rodando na porta 4000"}
+{"level":"error","message":"Error message"}
+{"level":"warn","message":"ATENÇÃO!"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T18:57:29.894Z"}
+{"level":"debug","message":"Debugging message","timestamp":"2022-12-27T18:57:29.896Z"}
+{"level":"error","message":"Error message","timestamp":"2022-12-27T18:57:29.897Z"}
+{"level":"warn","message":"ATENÇÃO!","timestamp":"2022-12-27T18:57:29.898Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T18:59:36.488Z"}
+{"level":"debug","message":"Debugging message","timestamp":"2022-12-27T18:59:36.490Z"}
+{"level":"error","message":"Error message","timestamp":"2022-12-27T18:59:36.490Z"}
+{"level":"warn","message":"ATENÇÃO!","timestamp":"2022-12-27T18:59:36.491Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T18:59:38.327Z"}
+{"level":"debug","message":"Debugging message","timestamp":"2022-12-27T18:59:38.328Z"}
+{"level":"error","message":"Error message","timestamp":"2022-12-27T18:59:38.330Z"}
+{"level":"warn","message":"ATENÇÃO!","timestamp":"2022-12-27T18:59:38.330Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T18:59:49.557Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:00:28.828Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:00:30.068Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:01:46.845Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:03:27.290Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:03:35.366Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:03:36.826Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:03:46.449Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:04:54.866Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:05:05.532Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:05:39.604Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:05:43.226Z"}
+{"level":"http","message":"GET / 304 - - 5.354 ms\n","timestamp":"2022-12-27T19:05:43.235Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 3.646 ms\n","timestamp":"2022-12-27T19:05:43.279Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:06:21.520Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:06:24.654Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:06:25.880Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:06:28.393Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:06:34.217Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:07:13.123Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:07:16.623Z"}
+{"level":"http","message":"GET / 304 - - 4.616 ms\n","timestamp":"2022-12-27T19:07:16.631Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 2.808 ms\n","timestamp":"2022-12-27T19:07:16.671Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T19:09:05.708Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:09:10.016Z"}
+{"level":"http","message":"GET / 304 - - 5.717 ms\n","timestamp":"2022-12-27T19:09:10.024Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 2.504 ms\n","timestamp":"2022-12-27T19:09:10.064Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:16:00.140Z"}
+{"level":"http","message":"GET / 200 37 - 6.224 ms\n","timestamp":"2022-12-27T19:16:00.144Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:16:09.496Z"}
+{"level":"http","message":"GET / 200 37 - 1.356 ms\n","timestamp":"2022-12-27T19:16:09.497Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:16:19.674Z"}
+{"level":"http","message":"GET / 304 - - 1.988 ms\n","timestamp":"2022-12-27T19:16:19.676Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 1.105 ms\n","timestamp":"2022-12-27T19:16:19.716Z"}
+{"level":"info","message":"Requisição feita!","timestamp":"2022-12-27T19:16:38.479Z"}
+{"level":"http","message":"GET / 304 - - 1.985 ms\n","timestamp":"2022-12-27T19:16:38.482Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 0.498 ms\n","timestamp":"2022-12-27T19:16:38.523Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T20:38:25.059Z"}
+{"level":"http","message":"GET / 200 48 - 43.253 ms\n","timestamp":"2022-12-27T20:38:28.828Z"}
+{"level":"http","message":"GET /products.json?limit=250 404 152 - 2.365 ms\n","timestamp":"2022-12-27T20:38:28.880Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T20:43:34.842Z"}
+{"level":"http","message":"GET / 200 48 - 37.362 ms\n","timestamp":"2022-12-27T20:43:36.652Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:18.936Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:32.290Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:33.954Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:41.117Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:48.269Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:26:54.922Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:03.633Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:08.849Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:24.590Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:36.531Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:39.455Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:43.752Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:48.763Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:50.931Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:52.137Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:27:56.948Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:02.587Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:07.070Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:08.015Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:12.733Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:14.221Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:19.361Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:22.617Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:28.326Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:30.393Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:34.258Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:44.150Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:45.404Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:48.632Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:52.295Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:54.148Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:28:58.272Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:25.994Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:32.243Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:38.963Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:40.185Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:43.230Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:48.137Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:49.158Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:29:52.694Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:30:06.631Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T21:31:00.251Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:29:55.824Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:30:03.488Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:31:20.619Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:34:18.927Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:36:19.799Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:38:44.918Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:39:12.480Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:39:14.645Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:39:33.902Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:39:36.471Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:39:46.450Z"}
+{"level":"info","message":"Conectando ao banco de dados","timestamp":"2022-12-27T22:40:52.331Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:40:52.336Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:41:33.652Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:41:49.134Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:41:50.444Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:41:53.541Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:41:55.555Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:00.253Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:02.016Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:03.284Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:26.562Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:32.204Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:35.054Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:38.084Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:42:39.958Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:24.881Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:33.428Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:36.660Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:38.183Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:42.212Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:46.231Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:47.950Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:49.972Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:52.056Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:43:54.072Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:44:34.748Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:44:36.466Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:44:47.861Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:44:49.619Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:48:35.536Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:51:25.496Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:52:19.799Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:52:27.791Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:52:31.071Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:52:54.712Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:53:01.598Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:53:04.209Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:55:03.809Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:56:45.428Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:57:51.117Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:57:55.710Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:58:34.151Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:58:56.096Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T22:59:38.042Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:00:36.947Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:01:44.758Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:01:46.440Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:02:33.549Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:04:26.966Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:05:24.172Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:06:44.877Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:02.882Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:12.656Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:16.503Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:18.067Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:23.351Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:26.878Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:32.197Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:34.802Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:07:37.291Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:08:15.127Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:08:16.754Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:08:17.628Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:12:26.188Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:15:56.412Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:16:02.510Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:16:06.143Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:16:25.269Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:16:29.057Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:16:41.367Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:18:30.933Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:18:34.158Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:19:26.101Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:19:27.593Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:19:29.007Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:21:58.860Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:29:50.952Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:29:53.302Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:29:56.374Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:04.709Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:11.055Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:35.351Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:40.306Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:42.879Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:51.036Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:52.453Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:54.635Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:30:59.089Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:32:43.701Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:32:48.822Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:33:02.757Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:33:06.165Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:33:07.461Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:34:39.677Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:35:48.005Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:35:49.532Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:35:51.445Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:35:55.870Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:36:22.514Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:36:51.246Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:36:54.533Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:36:55.920Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:36:57.187Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:37:39.316Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:38:14.204Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:38:17.825Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:38:18.978Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:38:24.955Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:41:02.982Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:44:00.070Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:44:53.438Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:44:58.091Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:44:59.775Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:47:08.091Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:47:11.776Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:47:14.919Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:51:59.074Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:01.165Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:02.385Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:09.019Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:12.754Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:16.024Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:19.628Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:24.163Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:40.137Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:52:59.188Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:02.769Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:04.061Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:36.701Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:42.476Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:43.796Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:53:45.073Z"}
+{"level":"info","message":"Servidor rodando na porta 4000","timestamp":"2022-12-27T23:54:03.425Z"}

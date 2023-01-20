@@ -1,0 +1,90 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\.7ae3eb4c6a906996848352bd7fa48b21e5f7c60d-audit.json",
+    "files": [
+        {
+            "date": 1672167269383,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2022-12-27.log",
+            "hash": "a75e3d8cb18fad0cf947ebfe687980ab89fe3096b74599c012532dcb9115fa2a"
+        },
+        {
+            "date": 1672241363129,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2022-12-28.log",
+            "hash": "4883569a6c9e8037215d8982140a4fc12784e1642792b4a1c94dd21be7b44831"
+        },
+        {
+            "date": 1672328346252,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2022-12-29.log",
+            "hash": "db5af4689c15cbc06c842e55be022b2662cb236171110d5d627236b20d932bbf"
+        },
+        {
+            "date": 1672410476542,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2022-12-30.log",
+            "hash": "a365c96cfd48088d373ff5a5c3bde9c074987472471ae68cb4db2d73dc885e66"
+        },
+        {
+            "date": 1672704728657,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-02.log",
+            "hash": "780af91761a6847c285b293a8c1e16f9f59321ad2a68328a09d95bfb771dfb57"
+        },
+        {
+            "date": 1672718238414,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-03.log",
+            "hash": "ef2e5ba0ed185fe7502ad6a56db9c3af1ebe7cff1a5bbca2ee6c39d9228698a4"
+        },
+        {
+            "date": 1673031448890,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-06.log",
+            "hash": "3ae15223142ab1c6df809145f748c75bdd301b6f423bde94dc93e1368bbb52a6"
+        },
+        {
+            "date": 1673195635682,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-08.log",
+            "hash": "1b2c7fde9c24571dc3a739c7e83ffd55829743c76b5df63f8e34d5f3ea89343e"
+        },
+        {
+            "date": 1673372870524,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-10.log",
+            "hash": "45877361cd193203d80cdcc2cbe77b65292ea7d18b3847e3ad3a02adec6722b1"
+        },
+        {
+            "date": 1673546375243,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-12.log",
+            "hash": "b1e1de382191a110da8f684959a78f8ab8c7694dd26ee1e22d2e0ff9f62ee6c9"
+        },
+        {
+            "date": 1673620740672,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-13.log",
+            "hash": "4f62a10e21e07938cd19a008132a66452a8c94565b2fb0fde0678e79817ac280"
+        },
+        {
+            "date": 1673803961692,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-15.log",
+            "hash": "89357d2d42cd98ef8918902f07ee014f2acdcef5837555dbcbc0852038f4aac3"
+        },
+        {
+            "date": 1673915720317,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-16.log",
+            "hash": "12f5fa491c5d60eb644e33bdc8e384a9b0146ab04b662da5072c13c13775b751"
+        },
+        {
+            "date": 1674067269366,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-18.log",
+            "hash": "461afd0cb21f7333dbd46737dbffcf5e4832dce137d5b5dc6629ac65dde45932"
+        },
+        {
+            "date": 1674097209298,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-19.log",
+            "hash": "a326699d5033198b7218815233e26e283f072fa7fdb03c053cb4263d61a70ab6"
+        },
+        {
+            "date": 1674226363734,
+            "name": "C:\\dev_play\\js\\chat_devplay\\chat-server\\logs\\2023-01-20.log",
+            "hash": "d351e50fe363356850bfb49b07ad2d7f3eb02f23c0ca32637b152bfafaf78cf6"
+        }
+    ],
+    "hashType": "sha256"
+}
